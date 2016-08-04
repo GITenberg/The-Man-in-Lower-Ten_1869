@@ -1,0 +1,31 @@
+_repo: The-Man-in-Lower-Ten_1869
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rinehart, Mary Roberts
+    birthdate: 1876
+    deathdate: 1958
+    gutenberg_agent_id: '183'
+    url: http://www.gutenberg.org/2009/agents/183
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
+description: A man is murdered on a train between Washington and Pittsburgh. The evidence
+  thoroughly and absolutely incriminates three entirely different people. But only
+  one of them can be guilty. And it is left to Miss Cornelia Van Gorder to figure
+  out which one.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '1999-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1869'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Murder -- Fiction'
+- !lcsh 'Railroad travel -- Fiction'
+- GITenberg
+title: The Man in Lower Ten
+url: http://www.gutenberg.org/ebooks/1869
